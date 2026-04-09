@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dinuka Yasintha
 
-### An experienced Javascript developer
+### An experienced JavaScript developer
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinukayasi22" alt="dinukayasi22" /></a> </p>
 
